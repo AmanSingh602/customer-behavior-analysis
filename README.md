@@ -1,4 +1,5 @@
 📊 Customer Behavior Analysis
+
 🧩 Business Problem
 
 A leading retail company aims to gain deeper insights into customer shopping behavior to improve sales performance, customer satisfaction, and long-term loyalty. Recent shifts in purchasing patterns across demographics, product categories, and sales channels (online vs. offline) have raised key business questions.
@@ -32,6 +33,7 @@ Power BI – Interactive dashboards and visual storytelling
 GitHub – Version control and project documentation
 
 📌 Project Workflow
+
 1️⃣ Data Preparation & Modeling (Python)
 
 Cleaned and preprocessed raw consumer behavior data
